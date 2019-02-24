@@ -1,2 +1,2 @@
-# devOpsDemoProj
-first demo of devops
+# devOpsDemoWithNUNITTestProj
+first demo of devops with NUNIT test
