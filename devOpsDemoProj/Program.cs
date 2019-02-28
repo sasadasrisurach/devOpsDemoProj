@@ -13,7 +13,7 @@ namespace devOpsDemoProj
                 // Create a file to write to.
                 using (StreamWriter sw = File.CreateText(path))
                 {
-                    sw.WriteLine("Hello World");
+                    sw.WriteLine("Hello World")
                 }
             }
 
